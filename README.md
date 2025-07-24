@@ -27,6 +27,8 @@ Static export of the interactive Power BI dashboard, showing key visuals:
 ## Key Features
 
 - Tracks total donations and budget attainment by program
+<img width="661" height="383" alt="Screenshot 2025-07-24 at 9 44 14 AM" src="https://github.com/user-attachments/assets/2602315f-f127-4ceb-81c5-73b26c81d0be" />
+
 - Highlights top-performing programs and donation methods
 - Visualizes daily giving patterns and max individual contributions
 - Integrates planned gifts for forecasting future revenue
